@@ -1,0 +1,10 @@
+# file=open("stn.txt","w")
+# n=input("enter char")
+# file.write(n)
+# file.write("\n")
+# file.close()
+
+a=open("stn.txt","w")
+a=open("stn.txt","w")
+a.write("my name is neetu")
+a.close()
